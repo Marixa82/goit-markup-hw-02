@@ -43,9 +43,9 @@ body {
   color: var(--color-main);
 }
 
-.nav-link.current {
+/* .nav-link.current {
   color: var(--color-accent);
-}
+} */
 
 .nav-link {
   font-weight: 500;
@@ -87,14 +87,15 @@ body {
   letter-spacing: 0.04em;
   color: var(--color-light);
   background-color: var(--color-accent);
+  cursor: pointer;
 }
 .button-hero:hover,
 .button-hero:focus {
   background-color: var(--color-bgc-btn);
 }
-.button-hero:active {
+/* .button-hero:active {
   background-color: var(--color-bgc-btn);
-}
+} */
 
 /* Feature */
 

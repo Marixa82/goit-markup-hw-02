@@ -54,7 +54,7 @@ body {
 }
 .nav-link:hover,
 .nav-link:focus {
-  color: var(--primary-text-color);
+  color: var(--color-bgc-btn);
 }
 
 .address-item .link {
